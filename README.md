@@ -15,16 +15,30 @@
 
 ## 웹 폰트 URL
 
-### link (HTML)
+### Full Version
+#### link (HTML)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_full.css">
 ```
 
-### import (CSS)
+#### import (CSS)
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen.css");
+@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_full.css");
+```
+
+### Light Version
+#### link (HTML)
+
+```html
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_light.css">
+```
+
+#### import (CSS)
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_light.css");
 ```
 
 ### CSS font-family 설정
