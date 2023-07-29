@@ -18,13 +18,13 @@
 ### link (HTML)
 
 ```html
-<link rel="stylesheet" type="text/css" href="">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen.css">
 ```
 
 ### import (CSS)
 
 ```css
-@import url("");
+@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen.css");
 ```
 
 ### CSS font-family 설정
