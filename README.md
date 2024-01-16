@@ -19,29 +19,29 @@
 #### link (HTML)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_full.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Full.min.css">
 ```
 
 #### import (CSS)
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_full.css");
+@import url("https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Full.min.css");
 ```
-
+---
 ### Light Version
 #### link (HTML)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_light.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Light.min.css">
 ```
 
 #### import (CSS)
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/lumirlumir/cdn_font_nanumbarunpen@main/NanumBarunPen_light.css");
+@import url("https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Light.min.css");
 ```
 
-### CSS font-family 설정
+## CSS font-family 설정
 
 ```css
 font-family: NanumBarunPen;
