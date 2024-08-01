@@ -19,7 +19,7 @@
 #### link (HTML)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Full.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lumirlumir/CDN_Font_NanumBarunPen@main/NanumBarunPen_Full.min.css">
 ```
 
 #### import (CSS)
